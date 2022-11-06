@@ -1,4 +1,4 @@
-﻿int fag;
+int fag;
 while (true)
 {
     Console.WriteLine("Меню\n" +
